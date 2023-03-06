@@ -3,6 +3,7 @@ LANGUAGES = {
     "en": "english",
     "zh-hans": "simplified chinese",
     "zh-hant": "traditional chinese",
+    "zh-hant-tw": "台灣用語的繁體中文",
     "de": "german",
     "es": "spanish",
     "ru": "russian",
